@@ -6,12 +6,6 @@
 
 ---
 
-## 📘 About This Repository
-This repository contains my **Python Bootcamp exercises and projects**.  
-It is part of my learning journey to understand **Python fundamentals**, problem-solving, and basic programming concepts.
-
----
-
 Welcome to the python-bootcamp-jomhack-c4 — a tiny code dojo where curious humans and caffeinated keyboards meet to conquer Python one puzzle at a time. This repo collects exercises, solutions, and a healthy dose of chaos from the challenge at Jomhack.
 
 ## 🧠 Why this repo exists
