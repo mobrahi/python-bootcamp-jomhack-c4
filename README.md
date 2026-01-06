@@ -1,10 +1,20 @@
-# python-bootcamp-jomhack-c4
+# Python Bootcamp Jom Hack Cohort 4 🐍
 
-![Python Bootcamp](https://img.shields.io/badge/python-bootcamp-jomhack-blue)
+![Python Bootcamp](https://img.shields.io/badge/Python-Bootcamp-blue?logo=python&logoColor=white)
+![Level](https://img.shields.io/badge/Level-Beginner-success)
+![Status](https://img.shields.io/badge/Status-Learning-yellow)
 
-Welcome to the python-bootcamp-jomhack-c4 — a tiny code dojo where curious humans and caffeinated keyboards meet to conquer Python one puzzle at a time. This repo collects exercises, solutions, and a healthy dose of chaos from the C4 challenge at Jomhack.
+---
 
-Why this repo exists
+## 📘 About This Repository
+This repository contains my **Python Bootcamp exercises and projects**.  
+It is part of my learning journey to understand **Python fundamentals**, problem-solving, and basic programming concepts.
+
+---
+
+Welcome to the python-bootcamp-jomhack-c4 — a tiny code dojo where curious humans and caffeinated keyboards meet to conquer Python one puzzle at a time. This repo collects exercises, solutions, and a healthy dose of chaos from the challenge at Jomhack.
+
+## 🧠 Why this repo exists
 
 - Learn by doing: bite-sized challenges that force you to think, break things, and then fix them.
 - Share knowledge: solutions and approaches from the bootcamp so others can learn faster (and make fewer mistakes).
